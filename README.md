@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I am currently in third year at the University of Cape Town, studying a bachelor of business science majoring in computer science. 
+
+
 I love to learn more about the seemingly never-ending world of code. 👨‍💻 
 
 
