@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently in third year at the University of Cape Town, studying a bachelor of business science majoring in computer science. 
+I am currently in Honours year at the University of Cape Town, studying a bachelor of business science majoring in computer science. 
 
 
 I love to learn more about the seemingly never-ending world of code. 👨‍💻 
@@ -15,7 +15,7 @@ My skills include:
 
  
  
- 
+
  💬 Ask me about the creation and deployment of websites (front-end development)
  
  
