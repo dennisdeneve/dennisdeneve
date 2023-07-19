@@ -23,3 +23,10 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dennis-hammerschlag-57aa951a2/
 
+[![Gmail][gmail-shield]][gmail-url]
+
+<!-- Gmail -->
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:dennishammerschlag01@gmail.com
+
+
