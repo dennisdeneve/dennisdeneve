@@ -14,13 +14,12 @@ But that's not all! I'm constantly hungry for knowledge, eagerly devouring the l
 So join me on this exciting journey as we unravel the mysteries of code and unleash the full potential of software engineering. Let's push boundaries, break barriers, and create amazing things together! 🌟
  
 💬 Don't hesitate to contact me for any queries! 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Gmail][gmail-shield]][gmail-url]
 
 <!-- LinkedIn -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dennis-hammerschlag-57aa951a2/
-
-[![Gmail][gmail-shield]][gmail-url]
 
 <!-- Gmail -->
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
