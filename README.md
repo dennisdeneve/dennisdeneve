@@ -17,3 +17,9 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 
 📫 How to reach me: dennishammerschlag01@gmail.com
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- LinkedIn -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/dennis-hammerschlag-57aa951a2/
+
