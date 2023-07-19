@@ -25,4 +25,8 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:dennishammerschlag01@gmail.com
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
