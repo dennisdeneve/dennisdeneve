@@ -13,10 +13,7 @@ But that's not all! I'm constantly hungry for knowledge, eagerly devouring the l
 
 So join me on this exciting journey as we unravel the mysteries of code and unleash the full potential of software engineering. Let's push boundaries, break barriers, and create amazing things together! 🌟
  
-💬 Ask me about the creation and deployment of websites (front-end development)
-
-📫 How to reach me: dennishammerschlag01@gmail.com
-
+💬 Don't hesitate to contact me for any queries! 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- LinkedIn -->
