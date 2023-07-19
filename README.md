@@ -1,4 +1,4 @@
-![Header Image](header.png)
+![Header Image](Header.png)
 
 
 ### Hey there! 
