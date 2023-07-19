@@ -26,7 +26,4 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 [gmail-url]: mailto:dennishammerschlag01@gmail.com
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-
-
