@@ -1,3 +1,6 @@
+![Header Image](header.png)
+
+
 ### Hey there! 
 
 Welcome to my GitHub profile, where I dive deep into the captivating realm of code! 🚀
