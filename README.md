@@ -26,4 +26,77 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 [gmail-url]: mailto:dennishammerschlag01@gmail.com
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 241.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+🌆 Daytime                53 commits          ████████████░░░░░░░░░░░░░   46.49 % 
+🌃 Evening                46 commits          ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Friday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/dennisdeneve/dennisdeneve/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/07/2023 09:07:19 UTC
 <!--END_SECTION:waka-->
