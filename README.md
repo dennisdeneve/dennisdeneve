@@ -26,15 +26,11 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 [gmail-url]: mailto:dennishammerschlag01@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 241.8 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2023
+> 🏆 29 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,21 +41,21 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-🌆 Daytime                53 commits          ████████████░░░░░░░░░░░░░   46.49 % 
-🌃 Evening                46 commits          ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌞 Morning                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+🌆 Daytime                53 commits          ████████████░░░░░░░░░░░░░   46.09 % 
+🌃 Evening                46 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Wednesday                21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Friday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Monday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Wednesday                21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 
 
@@ -69,15 +65,6 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -98,5 +85,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dennisdeneve/dennisdeneve/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2023 09:07:19 UTC
+ Last Updated on 20/07/2023 09:19:46 UTC
 <!--END_SECTION:waka-->
