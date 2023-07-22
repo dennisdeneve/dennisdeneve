@@ -28,7 +28,7 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 503.7 kB Used in GitHub's Storage 
+> 📦 526.4 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2023
  > 
@@ -65,10 +65,11 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████░░░░   85.36 % 
-YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   2 hrs 33 mins       ██████████████████████░░░   89.77 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +89,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dennisdeneve/dennisdeneve/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2023 18:37:50 UTC
+ Last Updated on 22/07/2023 18:38:11 UTC
 <!--END_SECTION:waka-->
