@@ -28,9 +28,9 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 537.2 kB Used in GitHub's Storage 
+> 📦 657.5 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2023
+> 🏆 36 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,11 +65,11 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Python                   8 hrs 32 mins       ███████████████░░░░░░░░░░   61.69 % 
-Java                     3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Ruby                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   11 hrs 28 mins      ████████████████░░░░░░░░░   62.02 % 
+Java                     5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Ruby                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +89,5 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dennisdeneve/dennisdeneve/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2023 18:37:25 UTC
+ Last Updated on 27/07/2023 18:37:20 UTC
 <!--END_SECTION:waka-->
