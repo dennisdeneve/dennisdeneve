@@ -12,7 +12,10 @@ With a solid foundation in Java, Python, HTML, CSS, and SQL, I embark on thrilli
 But that's not all! I'm constantly hungry for knowledge, eagerly devouring the latest technologies and tools to stay at the forefront of the ever-evolving tech landscape. Innovation and creativity fuel my coding endeavors, and I thrive in collaborative environments where I can bring fresh ideas to life. ✨
 
 So join me on this exciting journey as we unravel the mysteries of code and unleash the full potential of software engineering. Let's push boundaries, break barriers, and create amazing things together! 🌟
- 
+
+
+# My techstack:
+
 💬 Don't hesitate to contact me for any queries! 
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Gmail][gmail-shield]][gmail-url]
