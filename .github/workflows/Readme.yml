@@ -19,7 +19,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
-          TIMELINE: "False"
+          SHOW_TIMELINE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           
           
