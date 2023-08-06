@@ -52,18 +52,7 @@ So join me on this exciting journey as we unravel the mysteries of code and unle
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 822.6 kB Used in GitHub's Storage 
- > 
-> 🏆 77 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
