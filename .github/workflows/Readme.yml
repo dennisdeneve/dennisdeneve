@@ -1,5 +1,6 @@
 name: Readme
 
+
 on:
   schedule:
     # Runs at 12am IST
@@ -16,8 +17,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          # SHOW_LOC_CHART: "False"
-          # SHOW_OS: "False"
-          # SHOW_PROJECTS: "False"
-          # SHOW_PROFILE_VIEWS: "False"
-          # SHOW_EDITORS: "False"
+          SHOW_LOC_CHART: "False"
+          
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TIMELINE: "False"
